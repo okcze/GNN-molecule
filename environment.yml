@@ -1,0 +1,11 @@
+name: graphs
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - python==3.10
+  - ipykernel
+  - ogb
+  - pyg
+prefix: C:\Users\piotr\anaconda3\envs\graphs
