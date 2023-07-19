@@ -8,4 +8,3 @@ dependencies:
   - ipykernel
   - ogb
   - pyg
-prefix: C:\Users\piotr\anaconda3\envs\graphs
